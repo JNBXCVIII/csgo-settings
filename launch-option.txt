@@ -1,0 +1,1 @@
++exec _jnb_autoexec -tickrate 128 -threads 4 -novid -nojoy -high -full -Processheap -nod3d9ex -noaafonts +mat_vignette_enable -lv -language english -d3d9ex
